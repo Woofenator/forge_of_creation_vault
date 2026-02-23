@@ -1,0 +1,1 @@
+A set of tools used to create Warforged. Over the decades it's spent in The Forge of Creation they have slowly become infused with [[Aetherite]], causing Warforged created using these tools to gain more and more emotions over time.

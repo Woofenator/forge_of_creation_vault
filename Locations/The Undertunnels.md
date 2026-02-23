@@ -1,0 +1,1 @@
+Point of Operations for the [[Malleability Principle]]. Shaped mostly by Lava in the rock that the [[Forge of Creation]] is situated upon

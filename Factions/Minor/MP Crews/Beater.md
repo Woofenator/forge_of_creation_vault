@@ -1,0 +1,1 @@
+Crew focused on getting things from people (beating things out of them)

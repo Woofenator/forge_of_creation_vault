@@ -1,0 +1,1 @@
+A mineral found near, around and in the Forge of Creation. Seems to give the Warforged sentience It was used in the creation of the first sentient Forged and is now a core part of every forged created, almost becoming a nervous system of some description for them.

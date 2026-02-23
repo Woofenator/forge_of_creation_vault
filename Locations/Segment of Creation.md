@@ -1,0 +1,1 @@
+The Tradesmans place, where Warforged do most of their trade skills

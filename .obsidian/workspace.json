@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "596eb875ce642dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed52151f8d490d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b2a14eac3daa54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Aetherbridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aetherbridge"
+            }
+          },
+          {
+            "id": "6e72516800a01be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Tower"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4139981e4b94e172",
+    "type": "split",
+    "children": [
+      {
+        "id": "6764e7c224e7450b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5398793869c5450",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e865ceceff93d5b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c763aa5c40505bf4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbc983ddce9f2d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "627eda70c97587fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47b4db17b0c49487",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Tower"
+            }
+          },
+          {
+            "id": "748ede1927037cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Circle of the Forge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Circle of the Forge"
+            }
+          },
+          {
+            "id": "46e9bc3aeb676cb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c3b7140381aaca37",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fa956d7e5a3bb918",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Tower"
+            }
+          },
+          {
+            "id": "63103381070800e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fa956d7e5a3bb918",
+  "lastOpenFiles": [
+    "Factions/Minor/White Paragons.md",
+    "Factions/Major/Scions of the Spark.md",
+    "Factions/Minor/Order of the Outstretched Mind.md",
+    "Factions/Minor/Magisters.md",
+    "Factions/Minor/Librarians.md",
+    "Factions/Minor/Adventurers Guild.md",
+    "Factions/Minor/MP Crews/Springer.md",
+    "Notable Characters/Malleability Principle/Springer Crew/Ghost.md",
+    "Factions/Minor/MP Crews/Sniffer.md",
+    "Factions/Minor/MP Crews/Wrecker.md",
+    "Factions/Minor/MP Crews/Snapper.md",
+    "Factions/Minor/MP Crews/Digger.md",
+    "Factions/Minor/MP Crews/Beater.md",
+    "Points of Interest/Pink Sprocket.md",
+    "Factions/Minor/MP Crews",
+    "Points of Interest",
+    "Factions/Major/Malleability Principle.md",
+    "Untitled.canvas",
+    "Factions/Major/Allegiance to Purpose.md",
+    "Factions/Major/Designbound.md",
+    "Locations/Segment of Research.md",
+    "Locations/Segment of Creation.md",
+    "Locations/Segment of Silence.md",
+    "Locations/Segment of The Purpose.md",
+    "Forge of Creation.md",
+    "Aetherite Tools of Creation.md",
+    "Aetherite.md",
+    "Locations/Circle of the Forge.md",
+    "Locations/Aetherbridge.md",
+    "Locations",
+    "Notable Characters/Malleability Principle/Springer Crew",
+    "Notable Characters/Order of the Outstretched Mind",
+    "Notable Characters/Malleability Principle",
+    "Notable Characters",
+    "Factions/Minor/Order of the Outstretched Mind",
+    "Factions/Minor",
+    "Factions/Major/Allegiance to Purpose",
+    "map.png"
+  ]
+}

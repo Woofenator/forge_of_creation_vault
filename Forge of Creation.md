@@ -1,0 +1,3 @@
+![[map.png]]
+
+The forge was once a simple mine/forge associated with the Magistrate of the Capital, focused on making constructs. They unearthed a unique type of Aether crystal known as Heart Aether and when used to make a construct, it birthed the 1st sentient Forged. Overall the forged have been around as a species for 100+ years They gained their freedom about 70 years ago Since they don't really age, the governing party consists of the very first ones created To this day they still work with the Magistrates, but on a mutual benefit level

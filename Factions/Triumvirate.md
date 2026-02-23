@@ -1,0 +1,1 @@
+The ruling system of the Forge where all 4 factions meet. [[Scions of the Spark]] is a newer faction, after the name had already been established.
