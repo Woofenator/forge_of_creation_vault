@@ -1,0 +1,1 @@
+An ex-[[Scions of the Spark|scion]]. Has esoteric knowledge and is of some undetermined use to [[Ghost]]. Mad and mumbles about the spark a lot

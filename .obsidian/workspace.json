@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+                "file": "Notable Characters/Henry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Tower"
+              "title": "Henry"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+                "file": "Notable Characters/Henry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Tower"
+              "title": "Backlinks for Henry"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+                "file": "Notable Characters/Henry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Tower"
+              "title": "Outline of Henry"
             }
           },
           {
@@ -209,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa956d7e5a3bb918",
+  "active": "6e72516800a01be0",
   "lastOpenFiles": [
+    "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+    "Notable Characters/Henry.md",
     "Factions/Minor/White Paragons.md",
     "Factions/Major/Scions of the Spark.md",
     "Factions/Minor/Order of the Outstretched Mind.md",
@@ -238,8 +240,6 @@
     "Forge of Creation.md",
     "Aetherite Tools of Creation.md",
     "Aetherite.md",
-    "Locations/Circle of the Forge.md",
-    "Locations/Aetherbridge.md",
     "Locations",
     "Notable Characters/Malleability Principle/Springer Crew",
     "Notable Characters/Order of the Outstretched Mind",
