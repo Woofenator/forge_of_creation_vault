@@ -1,0 +1,1 @@
+[[Cycle of Bulls]] Master lockpick. Makes his own lockpicks in his spare time. Taught [[Ghost]] how to pick locks, but [[Ghost]] struggled to pick locks that Click made seem almost effortless. 

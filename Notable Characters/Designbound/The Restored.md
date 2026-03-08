@@ -1,0 +1,1 @@
+Founder of the [[Designbound]] and one of the original 24 born during the [[Cycle of the Flare]]. The one who proposed the rule that only those born Ascendant can be called "The ..." and popularised the idea that anyone who tried to do the same is seen as thinking too highly of themselves and should be shunned.

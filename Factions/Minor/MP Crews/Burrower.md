@@ -1,0 +1,1 @@
+A crew consisting of various Magic casters specialising in the art of Divination, and preventing against Divination.

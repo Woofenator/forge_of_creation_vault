@@ -1,0 +1,3 @@
+A Shape shifting [[Cycle of Quakes]] Forged that has one of the few enchanted enhancements provided by [[Doc]]. This enhancement functions as a Mask of Many faces invocation, allowing Shift to cast Disguise Self at will. Such an enhancement has prevented Shift from acquiring others, as their body is already strained by the Mask. Shift does not enjoy this, as they would like to change other things about their body and often use their mask to appear as themselves, but with the modifications they would prefer to have.
+
+((Authors note: I made a non-binary Forged with Body Dysmorfia, and gave them the ability to appear as anything they want. I have created a Cycle of Trauma))

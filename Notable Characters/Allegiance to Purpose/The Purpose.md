@@ -1,0 +1,1 @@
+Founder of the [[Allegiance to Purpose]] and one of the original 24 born during the [[Cycle of the Flare]].

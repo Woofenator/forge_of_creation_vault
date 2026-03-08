@@ -1,0 +1,5 @@
+Very rarely a new batch of Forged is being created at the exact moment a Flare happens. The first time such a thing happened, it produced 24 Ascendant Forged known as the Paragons. Before such a thing happened, it was believed that only those made of flesh and blood could become Ascendant. Known as Flareborn, Paragons, Ascendant or just The White Ones, those born during the [[Cycle]] of the Flare take up high-ranking positions in the various organisations and guilds across the city, showing a natural aptitude for Leadership and Ambition, things that the early Forged lacked.
+
+Ever since the first Cycle of the Flare, the [[Triumvirate]] have been trying to create more Ascendants during more Flares to various degrees of success.
+
+Those born during the Cycle of the Flare choose their names as "The ..." and are the only ones socially allowed to do that within the walls of the [[Forge of Creation]]

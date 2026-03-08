@@ -1,0 +1,1 @@
+The founding member of the [[Malleability Principle]] and one of the original 24 born during the first [[Cycle of the Flare]]. 

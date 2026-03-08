@@ -1,0 +1,1 @@
+A [[Cycle of Ash]] Forged that works as a "Man in the Chair" for the [[Springer]] crew. Guides her crew and relays information between them, allowing the crew to operate in different parts of whatever location their job takes them. Usually stays behind in a safe house among various tomes and scrolls of information she writes down while relaying it.

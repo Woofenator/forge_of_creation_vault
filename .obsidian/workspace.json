@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notable Characters/Henry.md",
+                "file": "Notable Characters/Designbound/The Restored.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Henry"
+              "title": "The Restored"
+            }
+          },
+          {
+            "id": "6330e4bbbb99ccb8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,45 +219,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e72516800a01be0",
+  "active": "6330e4bbbb99ccb8",
   "lastOpenFiles": [
-    "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+    "Cycles/Cycle of the Flare.md",
+    "Notable Characters/Designbound/The Restored.md",
+    "Notable Characters/Allegiance to Purpose/The Purpose.md",
+    "Notable Characters/Malleability Principle/The Hidden.md",
+    "Notable Characters/Designbound",
+    "Notable Characters/Allegiance to Purpose",
     "Notable Characters/Henry.md",
-    "Factions/Minor/White Paragons.md",
-    "Factions/Major/Scions of the Spark.md",
-    "Factions/Minor/Order of the Outstretched Mind.md",
-    "Factions/Minor/Magisters.md",
-    "Factions/Minor/Librarians.md",
-    "Factions/Minor/Adventurers Guild.md",
-    "Factions/Minor/MP Crews/Springer.md",
+    "Notable Characters/Rast.md",
+    "Locations/Buildings/The Pink Sprocket.md",
+    "Locations/Buildings",
+    "Notable Characters/Malleability Principle/Plunger.md",
+    "Notable Characters/Malleability Principle/Doc.md",
     "Notable Characters/Malleability Principle/Springer Crew/Ghost.md",
+    "Notable Characters/Malleability Principle/Sniffer Crew/Clack.md",
+    "Notable Characters/Malleability Principle/Springer Crew/Radio.md",
+    "Notable Characters/Malleability Principle/Springer Crew/Click.md",
+    "Notable Characters/Malleability Principle/Springer Crew/Shift.md",
     "Factions/Minor/MP Crews/Sniffer.md",
-    "Factions/Minor/MP Crews/Wrecker.md",
+    "Notable Characters/Malleability Principle/Sniffer Crew",
     "Factions/Minor/MP Crews/Snapper.md",
-    "Factions/Minor/MP Crews/Digger.md",
     "Factions/Minor/MP Crews/Beater.md",
-    "Points of Interest/Pink Sprocket.md",
+    "Factions/Minor/MP Crews/Burrower.md",
+    "Notable Characters/Malleability Principle/Sniffer Crew/Bug.md",
+    "Cycles/Cycle of Sulphur.md",
+    "Cycles/Cycle of Bulls.md",
+    "Cycles/Cycle of the Sea.md",
+    "map.png",
+    "Cycles/Failed Cycle.md",
+    "Cycles/Cycle of Quakes.md",
+    "Cycles/Cycle of Ash.md",
+    "Cycles/Cycle.md",
+    "Cycles",
     "Factions/Minor/MP Crews",
     "Points of Interest",
-    "Factions/Major/Malleability Principle.md",
     "Untitled.canvas",
-    "Factions/Major/Allegiance to Purpose.md",
-    "Factions/Major/Designbound.md",
-    "Locations/Segment of Research.md",
-    "Locations/Segment of Creation.md",
-    "Locations/Segment of Silence.md",
-    "Locations/Segment of The Purpose.md",
-    "Forge of Creation.md",
-    "Aetherite Tools of Creation.md",
-    "Aetherite.md",
     "Locations",
     "Notable Characters/Malleability Principle/Springer Crew",
-    "Notable Characters/Order of the Outstretched Mind",
-    "Notable Characters/Malleability Principle",
-    "Notable Characters",
-    "Factions/Minor/Order of the Outstretched Mind",
-    "Factions/Minor",
-    "Factions/Major/Allegiance to Purpose",
-    "map.png"
+    "Notable Characters/Order of the Outstretched Mind"
   ]
 }

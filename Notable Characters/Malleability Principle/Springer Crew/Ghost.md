@@ -1,0 +1,3 @@
+A [[Cycle of Sulphur]] Forged taught to be a master spy. Prides himself on knowing things about people. Used his skills to help the crew find the missing people they are supposed to rescue, as well as scout out vectors of approach, including but not limited to ways where [[Click]] could break into a valuable spot, or [[Shift]] could use their abilities to gain entry.
+
+Has modified legs that allow Ghost to have a higher Agility and Mobility.

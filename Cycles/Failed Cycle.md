@@ -1,0 +1,1 @@
+Those created during the [[Cycle of the Flare]] that fail to become Ascendant. Outcasts and usually looked down upon, especially by the upper echelons of the city. They often find work in [[The Undertunnels]] in the [[Malleability Principle]] as guards, merchants or bodies to throw at a problem. Seen as mostly expendable.

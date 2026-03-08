@@ -1,0 +1,1 @@
+The Lockpick of the [[Sniffer]] crew. An unofficial twin of [[Click]], sometimes making it difficult to tell them apart, especially if both are relaxing.

@@ -1,0 +1,3 @@
+Forged created during the [[Cycle]] of Ash are made of Steel and have a distinct silvery sheen about them. They are built wider and bulkier and exhibit such properties as durability, rigidness and a tendency to take up more durability focused jobs.
+
+During the Cycle of Ash, the Volcano that the [[Forge of Creation]] sits atop produces carbon-rich ash plumes, from which the Cycle gains its name, that are gathered and then used in the production of the steel used in the creation of the Forged

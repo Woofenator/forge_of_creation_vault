@@ -1,0 +1,3 @@
+A [[Cycle of the Sea]] Lost Forged that is the Main Mechanic of the [[Malleability Principle]], the person to whom most of the members come to get their enhancements. Takes pride in his work and has given hell to his customers for so much as scratching up one of his parts.
+
+Has already repaired [[Ghost]]s legs multiple times, but only from minor jams or some specific parts breaking. He has given Ghost hell every single time, but diligently repaired them, telling Ghost that this is the last time he does so every single time.

@@ -1,0 +1,1 @@
+A Cycle is a non-specific stretch of time during which Forged are made in the [[Circle of the Forge]]. The Cycle during which a Forged is made determines what they are made of and some parts of their personality.

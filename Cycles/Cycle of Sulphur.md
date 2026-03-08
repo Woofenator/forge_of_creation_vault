@@ -1,0 +1,3 @@
+During the Eruptions of the Forge Volcano, chunks of raw materials are spewed by the volcanic activities. Such chunks consist of Sulphur, Lead, Zinc and other trace materials. These chunks are gathered, the various minerals extracted for Alchemical and magical purposes, and the leftovers, particularly Zinc, are used in the creation of Brass, that, when refined, is used in the making of Forged. Those born during this [[Cycle]] have an outer shell made entirely of Brass, and their internals absorb the trace elements found in the alloy.
+
+The Forged born during this cycle are known widely as Alchemists and Master Craftsmen of the Arcane arts.
