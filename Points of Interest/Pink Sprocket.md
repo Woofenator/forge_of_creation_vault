@@ -1,1 +1,0 @@
-A tavern in [[The Borderline]] that functions as the main place where fleshy people stay. Some stay in the city, but they have to deal with the volcanic fumes somehow.
