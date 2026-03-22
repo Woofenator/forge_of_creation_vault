@@ -1,0 +1,1 @@
+A Dwarven magister, sent [[Ghost]] on his mission that ended with him being captured by the [[Order of the Outstretched Mind]]

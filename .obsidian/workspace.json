@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Locations/Aetherbridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aetherbridge"
+            }
+          },
+          {
+            "id": "6e72516800a01be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ghosts Story/The Job that went wrong.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "The Job that went wrong"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,44 +209,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0b2a14eac3daa54",
+  "active": "6e72516800a01be0",
   "lastOpenFiles": [
-    "Notable Characters/Rast.md",
+    "Cycles/Cycle of the Sea.md",
+    "Cycles/Cycle of Bulls.md",
+    "Cycles/Cycle of Quakes.md",
+    "Cycles/Cycle of Sulphur.md",
+    "Aetherite.md",
+    "Notable Characters/Karem Ironspark.md",
     "Ghosts Story/The Job that went wrong.md",
-    "map.png",
-    "Notable Characters/Malleability Principle/The Silence.md",
-    "Factions/Major/Malleability Principle.md",
-    "Locations/Aetherbridge.md",
-    "Ghosts Story",
-    "Notable Characters/Designbound/The Restored.md",
-    "Points of Interest/Pink Sprocket.md",
-    "Cycles/Cycle of the Flare.md",
-    "Notable Characters/Allegiance to Purpose/The Purpose.md",
-    "Notable Characters/Designbound",
-    "Notable Characters/Allegiance to Purpose",
+    "Notable Characters/Rast.md",
     "Notable Characters/Henry.md",
     "Points of Interest/The Pink Sprocket.md",
-    "Locations/Buildings",
-    "Notable Characters/Malleability Principle/Plunger.md",
-    "Notable Characters/Malleability Principle/Doc.md",
-    "Notable Characters/Malleability Principle/Springer Crew/Ghost.md",
+    "Notable Characters/Malleability Principle/The Silence.md",
     "Notable Characters/Malleability Principle/Sniffer Crew/Clack.md",
-    "Notable Characters/Malleability Principle/Springer Crew/Radio.md",
-    "Notable Characters/Malleability Principle/Springer Crew/Click.md",
-    "Notable Characters/Malleability Principle/Springer Crew/Shift.md",
-    "Factions/Minor/MP Crews/Sniffer.md",
-    "Notable Characters/Malleability Principle/Sniffer Crew",
-    "Factions/Minor/MP Crews/Snapper.md",
-    "Factions/Minor/MP Crews/Beater.md",
-    "Factions/Minor/MP Crews/Burrower.md",
     "Notable Characters/Malleability Principle/Sniffer Crew/Bug.md",
-    "Cycles/Cycle of Sulphur.md",
-    "Cycles/Cycle of Bulls.md",
+    "Notable Characters/Malleability Principle/Sniffer Crew",
+    "Notable Characters/Malleability Principle/Plunger.md",
+    "Notable Characters/Designbound/The Restored.md",
+    "Notable Characters/Designbound",
+    "Notable Characters/Allegiance to Purpose/The Purpose.md",
+    "Notable Characters/Allegiance to Purpose",
+    "Ghosts Story",
+    "Factions/Minor/MP Crews/Burrower.md",
+    "Cycles/Cycle.md",
+    "Cycles/Failed Cycle.md",
+    "Cycles/Cycle of the Flare.md",
+    "Cycles/Cycle of Ash.md",
     "Cycles",
+    "Notable Characters/Order of the Outstretched Mind/The Tower.md",
+    "Factions/Minor/White Paragons.md",
+    "Factions/Major/Scions of the Spark.md",
+    "Factions/Minor/Order of the Outstretched Mind.md",
+    "Factions/Minor/Magisters.md",
     "Factions/Minor/MP Crews",
     "Points of Interest",
     "Untitled.canvas",
     "Locations",
-    "Notable Characters/Malleability Principle/Springer Crew"
+    "Notable Characters/Malleability Principle/Springer Crew",
+    "Notable Characters/Order of the Outstretched Mind",
+    "map.png"
   ]
 }
