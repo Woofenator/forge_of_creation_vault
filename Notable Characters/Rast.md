@@ -1,1 +1,3 @@
 The owner and bartender of the [[The Pink Sprocket]], a [[Cycle of the Sea]] Forged. Knows about the comings and goings of most everyone, and is very self-serving, not divulging any information without proper payment. Swears no allegiance to anyone outside of coin
+
+Has multiple hands and heads.

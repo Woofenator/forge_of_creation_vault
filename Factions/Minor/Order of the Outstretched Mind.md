@@ -1,1 +1,1 @@
-Upstarts, focused on Psionics
+Upstarts, focused on Psionics. Have a symbol
